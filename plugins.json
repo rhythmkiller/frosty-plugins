@@ -1,16 +1,14 @@
 [{
     "projectUrl": "https://google.ca",
     "provider": "frosty",
-    
     "name": "Frosty Lunars",
     "description": "",
     "id": "frostylunars-plugin",
     "releases": [{
         "date": "2022-10-20",
         "sha512sum": "ca8fd8e90ca4f22a00b1b0c015819743e2fcff1cad6920606d116e104ba01aa5717a60cf3cb12752ada4db3fe9f61908517cf3ff4360bc11aa4706116368d3e3",
-        "version": "0.0.8",
+        "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/rhythmkiller/frosty-plugins/main/frosty-lunars-0.0.1.jar",
         "requires": "^1.0.0"
     }]
-
 }]
